@@ -1,20 +1,16 @@
-# Hindalco-Internship
-
-
-````markdown
 # Hindalco Internship – Login Page Assignment 💻
 
-Welcome to the official repository for the **Login Page Design Assignment**.  
+Welcome to the official repository for the **Login Page Design Assignment**.
 Please follow the instructions below step-by-step to properly submit your work.
 
 ---
 
 ## ✅ Submission Rules
 
-- Create a folder using **your full name** (no roll numbers).
-- Add your login page assignment (HTML/CSS/JS) inside your folder.
-- Do **not** change or delete any existing folders or files that don’t belong to you.
-- Push your changes using Git as described below.
+* Create a folder using **your full name** (no roll numbers).
+* Add your login page assignment (HTML/CSS/JS) inside your folder.
+* Do **not** change or delete any existing folders or files that don’t belong to you.
+* Push your changes using Git as described below.
 
 ---
 
@@ -30,7 +26,7 @@ Open your terminal and run:
 
 ```bash
 git clone https://github.com/YOUR-USERNAME/Hindalco-Internship.git
-````
+```
 
 > Replace `YOUR-USERNAME` with your GitHub username.
 
@@ -72,17 +68,12 @@ git push origin main
 
 ---
 
-## 📞 Need Help?
+## 📬 Need Help?
 
 If you're facing any issues, feel free to reach out to [@ayush-patel1](https://github.com/ayush-patel1) on GitHub or contact through the assigned group.
 
 ---
 
-Happy Coding! 🎉
+**Happy Coding! 🎉**
 
-```
-
----
-
-Let me know if you’d like to add a deadline section, screenshots, or contribution badges.
 ```
